@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d366b"/>
+      <stop offset="0.65" stop-color="#2a78d6"/>
+      <stop offset="1" stop-color="#3987e5"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#g)"/>
+  <!-- decorative bar chart -->
+  <g fill="#ffffff" opacity="0.12">
+    <rect x="800" y="190" width="34" height="70" rx="4"/>
+    <rect x="846" y="165" width="34" height="95" rx="4"/>
+    <rect x="892" y="175" width="34" height="85" rx="4"/>
+    <rect x="938" y="135" width="34" height="125" rx="4"/>
+    <rect x="984" y="110" width="34" height="150" rx="4"/>
+    <rect x="1030" y="80" width="34" height="180" rx="4"/>
+    <rect x="1076" y="50" width="34" height="210" rx="4"/>
+  </g>
+  <polyline points="817,175 863,150 909,160 955,118 1001,95 1047,64 1093,36" fill="none" stroke="#eb6834" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="1093" cy="36" r="8" fill="#eb6834"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" fill="#ffffff">
+    <text x="60" y="88" font-size="18" opacity="0.8" letter-spacing="2">INTI INTERNATIONAL UNIVERSITY · MOBILITY PROGRAM</text>
+    <text x="60" y="150" font-size="56" font-weight="700">Byte Supply</text>
+    <text x="60" y="196" font-size="30" font-weight="400" opacity="0.95">E-Commerce Business Analytics</text>
+    <text x="60" y="244" font-size="18" opacity="0.75">24,991 transactions · KPIs · Visual analytics · ML revenue forecasting</text>
+  </g>
+</svg>

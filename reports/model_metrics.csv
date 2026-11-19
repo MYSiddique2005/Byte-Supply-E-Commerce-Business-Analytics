@@ -1,0 +1,3 @@
+Model,MAE (RM),RMSE (RM),MAPE (%),R2
+Polynomial Regression (degree 2),5062.589,6077.466,9.91,0.537
+Linear Regression,6452.724,8256.491,12.178,0.146
