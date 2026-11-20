@@ -1,0 +1,8 @@
+# Normalise line endings
+* text=auto
+
+# Keep GitHub's language stats focused on the analysis code
+docs/** linguist-generated
+reports/** linguist-generated
+data/** linguist-vendored
+*.csv linguist-generated
